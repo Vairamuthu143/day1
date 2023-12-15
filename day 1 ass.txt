@@ -1,0 +1,16 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2
+    
+HTTP/2 is different from HTTP/1 in several ways, including supporting server push, multiplexing of requests, 
+    and header compression.HTTP/2 also uses binary encoding rather than text encoding, making it more efficient
+      
+2.Write a blog about objects and its internal representation in Javascript
+
+The Object type represents one of JavaScript's data types. It is used to store various keyed collections and more complex entities.
+ Objects can be created using the Object() constructor or the object initializer / literal syntax
+
+
+3.Read about IP address, port, HTTP methods, MAC address	
+
+A MAC address is assigned to the network interface card by the manufacturer and is used for communication within the local area network.
+ It is a globally unique address. An IP address is used for communication within the local area network and for communication between networks.
+
